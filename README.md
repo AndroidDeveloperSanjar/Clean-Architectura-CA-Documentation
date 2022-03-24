@@ -13,3 +13,4 @@ Biz projectimizni 3 qatlam(layer) ga bo'lib chiqamiz.
 Biz har bir qatlam(layer) uchun izoh berib chiqamiz. Har bir qatlam(layer) ning o'z vazifasi bor.
 
 
+
