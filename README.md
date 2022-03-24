@@ -12,8 +12,6 @@ Biz projectimizni 3 qatlam(layer) ga bo'lib chiqamiz.
 
 Biz har bir qatlam(layer) uchun izoh berib chiqamiz. Har bir qatlam(layer) ning o'z vazifasi bor.
 
-https://github.com/AndroidDeveloperSanjar/Clean-Architectura-CA-Documentation/blob/main/clean%20architectura.png
-
 
 
 
