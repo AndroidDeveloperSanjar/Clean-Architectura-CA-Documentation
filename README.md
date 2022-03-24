@@ -5,3 +5,9 @@ Biz tuzmoqchi bo'lgan project uchun Clean Architectura(CA) dan samarali foydalan
 
 Biz Androidda project qurishda projectimizni bir nechta qatlam(layer) larga bo'lib chiqishiz kerak.
 
+Biz projectimizni 3 qatlam(layer) ga bo'lib chiqamiz.
+* Data Layer
+* Domain Layer
+* Presentation Layer
+
+Biz har bir qatlam(layer) uchun izoh berib chiqamiz. Har bir qatlam(layer) ning o'z vazifasi bor.
