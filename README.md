@@ -12,6 +12,6 @@ Biz projectimizni 3 qatlam(layer) ga bo'lib chiqamiz.
 
 Biz har bir qatlam(layer) uchun izoh berib chiqamiz. Har bir qatlam(layer) ning o'z vazifasi bor.
 
-file:///var/folders/5w/crbsz_f154l6gf4qbrtzlb7w0000gp/T/TemporaryItems/NSIRD_screencaptureui_7dhreP/Screen%20Shot%202022-03-24%20at%2015.54.13.png
+file:///var/folders/5w/crbsz_f154l6gf4qbrtzlb7w0000gp/T/TemporaryItems/NSIRD_screencaptureui_7dhreP/Screen%20Shot%202022-03-24%20at%2015.54.13.png .md
 
 
